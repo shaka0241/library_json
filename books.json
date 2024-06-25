@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "description": "A novel that tells the story of the Buendía family over several generations in the fictional town of Macondo.",
+      "genre": "Magical Realism"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel about a totalitarian regime that uses surveillance, censorship, and manipulation to control the population.",
+      "genre": "Dystopian"
+    },
+    {
+      "id": 3,
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "description": "A philosophical and poetic tale about a young prince who travels to various planets, learning about life and human nature.",
+      "genre": "Fable"
+    },
+    {
+      "id": 4,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A novel about racial injustice in the southern United States, seen through the eyes of a young girl.",
+      "genre": "Southern Gothic"
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic story that explores the complexities of morality and marriage in 19th century English society.",
+      "genre": "Romance"
+    },
+    {
+      "id": 6,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "description": "The story of a Spanish nobleman who, influenced by chivalric romances, decides to become a knight-errant.",
+      "genre": "Satire"
+    },
+    {
+      "id": 7,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "description": "The classic epic that narrates the adventures of Odysseus on his long journey home to Ithaca after the Trojan War.",
+      "genre": "Epic Poetry"
+    },
+    {
+      "id": 8,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "description": "The story of a young student who, driven by poverty and a philosophical theory, commits murder and faces moral consequences.",
+      "genre": "Psychological Fiction"
+    },
+    {
+      "id": 9,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A novel that examines the American Dream through the life of Jay Gatsby and his obsessive love for Daisy Buchanan.",
+      "genre": "Tragedy"
+    },
+    {
+      "id": 10,
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "description": "A monumental work that explores themes of memory, time, and human experience through the narrator's life.",
+      "genre": "Modernist"
+    },
+    {
+      "id": 11,
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "description": "A complex novel that follows the lives of various characters in Dublin over the course of a single day.",
+      "genre": "Modernist"
+    },
+    {
+      "id": 12,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "description": "A work that explores social injustice in 19th century France through the life of Jean Valjean, an ex-convict.",
+      "genre": "Historical Fiction"
+    },
+    {
+      "id": 13,
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "description": "The story of an unhappy woman who seeks to escape her boring life through romantic adventures and consumerism.",
+      "genre": "Realist"
+    },
+    {
+      "id": 14,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "description": "A handsome and narcissistic young man retains his youth while his portrait ages and shows the consequences of his immoral actions.",
+      "genre": "Philosophical Fiction"
+    },
+    {
+      "id": 15,
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "description": "A man wakes up transformed into a giant insect, facing isolation and rejection from his family and society.",
+      "genre": "Absurdist Fiction"
+    },
+    {
+      "id": 16,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "description": "A tragic story of love and adultery in the high society of 19th century Russia.",
+      "genre": "Realist"
+    },
+    {
+      "id": 17,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy epic that follows the struggle of good versus evil in Middle-earth.",
+      "genre": "Fantasy"
+    },
+    {
+      "id": 18,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "description": "A dark story of love and revenge set on the Yorkshire moors.",
+      "genre": "Gothic Fiction"
+    },
+    {
+      "id": 19,
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "description": "An epic poem describing Dante's journey through Hell, Purgatory, and Paradise.",
+      "genre": "Epic Poetry"
+    },
+    {
+      "id": 20,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "The story of a rebellious young man seeking authenticity and purpose in 1950s New York.",
+      "genre": "Coming-of-Age Fiction"
+    }
+  ]
+}
